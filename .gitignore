@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+/js/
+/css/
+.swp
+/vue/dist
+.idea/
+.vs-code/
+yarn-error.log
+package-lock.json
+yarn.lock
+.vs-code
+dist/
+__pycache__/
